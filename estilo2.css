@@ -1,0 +1,53 @@
+.ep{
+    font-family: tahoma;
+    font-size: 16px;
+    background: white;
+    color: black;
+    border-radius: 7px;
+}
+#centrado{
+    text-align: center;
+    background: #3282b8;
+    color: white;
+       padding: 4% 0;
+       border-radius: 5px;
+       margin: 5% 0;
+}
+table {
+    margin: auto;
+}
+ #error{
+    color: red;
+font-size: 12px;
+}
+
+input{
+    background: #3282b8;
+    width: 100%;
+    
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+   
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+    box-sizing: border-box;
+}
+
+.Boton{
+    width: 100%;
+    background-color: #3282b8;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 10%;
+    font-size: 16px;
+    border-radius: 7px;
+}
+
+.Boton:hover{
+    background-color: #5f6f8f;
+}
+
+
